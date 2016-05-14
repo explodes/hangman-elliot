@@ -1,0 +1,11 @@
+{
+  "name": "hangman",
+  "version": "1.0.0",
+  "description": "Hangman in the termainal",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "main": "index.js",
+  "dependencies": {
+  }
+}
